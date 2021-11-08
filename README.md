@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Iman
 - 👀 I’m interested in Web/App Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on Web Projects in the near future
+- 💞️ I’m looking to collaborate on any Web Projects in the near future
 - 📫 How to reach me @imanmikudim@gmail.com
 
 <!---
